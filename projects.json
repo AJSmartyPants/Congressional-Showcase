@@ -1288,5 +1288,68 @@
   "thumbnail": "sites/CA-45/thumbnail.png",
   "location": { "lat": 33.7701, "lng": -118.1937, "label": "Long Beach, CA" },
   "district": "CA-45", "state": "CA", "tags": ["social", "accessibility"]
+},
+{
+  "slug": "CT-05",
+  "name": "Nicolas Campisi",
+  "appName": "Snap & Snack",
+  "description": "Snap the food product's info, and Snack safely with allergy and nutrition insights.",
+  "thumbnail": "sites/CT-05/thumbnail.png",
+  "location": { "lat": 41.8096, "lng": -72.8306, "label": "Avon, CT" },
+  "district": "CT-05", "state": "CT", "tags": ["accessibility", "health"]
+},
+{
+  "slug": "CA-46",
+  "name": "Xiong Yi",
+  "appName": "MathFluent",
+  "description": "A conceptual learning platform helping students understand the logic behind mathematics.",
+  "thumbnail": "sites/CA-46/thumbnail.png",
+  "location": { "lat": 33.77, "lng": -117.92, "label": "Anaheim, CA" },
+  "district": "CA-46", "state": "CA", "tags": ["education"]
+},
+{
+  "slug": "CA-27",
+  "name": "Gautham Korrapati, Eric Lee",
+  "appName": "Mathviz",
+  "description": "An app that bridges the gap for learning mathematics with verified proof checkers and compilers.",
+  "thumbnail": "sites/CA-27/thumbnail.png",
+  "location": { "lat": 34.198, "lng": -118.261, "label": "Los Angeles, CA" },
+  "district": "CA-27", "state": "CA", "tags": ["education"]
+},
+{
+  "slug": "TX-34",
+  "name": "Max Moyle",
+  "appName": "Heatwave",
+  "description": "A pedestrian-first navigation app routing through shade and away from high-speed roads.",
+  "thumbnail": "sites/TX-34/thumbnail.png",
+  "location": { "lat": 26.1906, "lng": -97.6961, "label": "Harlingen, TX" },
+  "district": "TX-34", "state": "TX", "tags": ["environment", "navigation"]
+},
+{
+  "slug": "NJ-07",
+  "name": "Maxwell Brohm & Zander Leon",
+  "appName": "ChronoIQ",
+  "description": "AI-powered study scheduler that generates Google Calendar study blocks from your Classroom assignments.",
+  "thumbnail": "sites/NJ-07/thumbnail.png",
+  "location": { "lat": 40.987, "lng": -74.3765, "label": "Kinnelon, NJ" },
+  "district": "NJ-07", "state": "NJ", "tags": ["education", "ai"]
+},
+{
+  "slug": "AZ-03",
+  "name": "Antoni Gonzalez, Grey Ricker, Sean Collay",
+  "appName": "NaviCare",
+  "description": "An easy-to-navigate Health Hub accessible to all.",
+  "thumbnail": "sites/AZ-03/Logo-NC+-01.png",
+  "location": { "lat": 33.4483, "lng": -112.0725, "label": "Phoenix, AZ" },
+  "district": "AZ-03", "state": "AZ", "tags": ["health"]
+},
+{
+  "slug": "GA-07",
+  "name": "Hannah Kim",
+  "appName": "SpeakEase.io",
+  "description": "An AI-powered AAC app that learns your speech patterns to predict and voice complete sentences with natural clarity.",
+  "thumbnail": "sites/GA-07/thumbnail.png",
+  "location": { "lat": 34.1069, "lng": -84.1384, "label": "Duluth, GA" },
+  "district": "GA-07", "state": "GA", "tags": ["accessibility", "ai"]
 }
 ]
