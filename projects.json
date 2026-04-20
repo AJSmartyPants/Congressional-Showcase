@@ -1108,5 +1108,20 @@
   "district": "NJ-09",
   "state": "NJ",
   "tags": ["social", "accessibility"]
+}, 
+  {
+  "slug": "CA-28",
+  "name": "Anika Jha",
+  "appName": "Fire Up",
+  "description": "Fire Up is an intuitive yet powerful web app that brings together prediction, live detection, actionable guidance, and real-time evacuation planning in one cohesive experience, making wildfire readiness smarter and more interactive for both civilians and first responders.",
+  "thumbnail": "sites/CA-28/thumbnail.png",
+  "location": {
+    "lat": 34.127361,
+    "lng": -118.045868,
+    "label": "Arcadia, CA"
+  },
+  "district": "CA-28",
+  "state": "CA",
+  "tags": ["environment", "education", "safety", "machine learning", "AI", "wildfire", "disaster", "data analysis", "community", "accessibility"]
 }
 ]
